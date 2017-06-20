@@ -1,0 +1,26 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "section4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spriggse/mean_stack.git"
+  },
+  "keywords": [
+    "learning"
+  ],
+  "author": "Eian Spriggs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spriggse/mean_stack/issues"
+  },
+  "homepage": "https://github.com/spriggse/mean_stack#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mocha": "^3.4.2"
+  }
+}
